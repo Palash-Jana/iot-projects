@@ -1,7 +1,7 @@
 // this code is created by Palash Jana
 //This code sends sensor data like temparature & Humidity every 2 minutes later
 // Please set Authentication password before use the code
-// To set Authentication password, step-1: set 2 factor authentication, setp-2: go to email setting and set authenticatin key 
+// To set Authentication password, step-1: set 2 factor authentication, setp-2: go to email setting and set authenticatin key
 #include <WiFi.h>
 #include <ESP_Mail_Client.h>
 #include <DHT.h>
