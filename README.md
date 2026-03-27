@@ -1,3 +1,4 @@
+
 # 📡 ESP32 Setup and Configuration Guide
 
 This guide provides step-by-step instructions to set up **Arduino IDE**, install **ESP32 drivers**, configure **ESP32 board**, select **COM port**, and set up **Email Alerts** and **Telegram Bot messaging** for ESP32 projects.
